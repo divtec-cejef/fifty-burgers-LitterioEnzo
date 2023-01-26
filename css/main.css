@@ -11,6 +11,21 @@ a {
     text-decoration: none;
     color: #00A24B;
 }
+
 a:hover {
     color: #E8A062;
+}
+
+h1, h2 {
+    font-family: Georgia, sans-serif;
+}
+
+h1 {
+    color: #FDC032;
+    font-size: 4rem;
+    line-height: 0.9;
+}
+
+h2 {
+
 }
